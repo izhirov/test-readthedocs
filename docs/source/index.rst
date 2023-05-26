@@ -15,11 +15,14 @@ Contest of the `example` module is:
         pass
 
 
-Contest:
+.. toctree::
+   :caption: Usage
+        Home <self>
+        Installation <installation>
+        Example <example>
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-        Home <self>
-        installation
-        api
+    :maxdepth: 2
+    :caption: API
+    :glob:
+        api/*.rst
