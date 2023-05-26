@@ -24,5 +24,6 @@ Contest of the `example` module is:
 .. toctree::
     :maxdepth: 2
     :caption: API
-    :glob:
-        api/*.rst
+        Common <api/api>
+        Yandex <api/yandex>
+        Google <api/google>
