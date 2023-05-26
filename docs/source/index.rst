@@ -16,7 +16,7 @@ Contest of the `example` module is:
 
 
 .. toctree::
-   :caption: Usage
+    :caption: Usage
 
     Home <self>
     usage/installation
