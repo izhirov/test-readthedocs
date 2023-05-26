@@ -4,11 +4,12 @@ build:
   os: "ubuntu-20.04"
   tools:
     python: "3.10"
-
-python:
-  install:
-    - method: pip
-      path: .
+  jobs:
+    post_create_environment:
+      - pip install poetry
+      - poetry config virtualenvs.create false
+    post_install:
+      - poetry install --with docs --no-root
 
 formats:
   - pdf
