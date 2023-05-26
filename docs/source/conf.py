@@ -20,7 +20,7 @@ sys.path.insert(0, os.path.abspath('../../'))
 project = "Secbot"
 copyright = "2023, CompanyShkomany"
 author = "CompanyShkomany security team"
-
+version = "1.0.0"
 
 # -- General configuration ---------------------------------------------------
 # -- General configuration
