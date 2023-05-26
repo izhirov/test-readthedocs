@@ -26,7 +26,6 @@ author = "CompanyShkomany security team"
 # -- General configuration
 
 extensions = [
-    "myst_parser",
     "sphinx.ext.duration",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",

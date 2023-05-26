@@ -10,6 +10,12 @@ packages = [{include = "sb_documentation_example"}]
 python = "^3.11"
 requests = "^2.31.0"
 
+[tool.poetry.group.docs.dependencies]
+myst-parser = "^1.0.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+
+[tool]
