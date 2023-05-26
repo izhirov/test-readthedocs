@@ -25,6 +25,6 @@ Contest of the `example` module is:
 .. toctree::
     :caption: API
 
-    api/api
     api/yandex
     api/google
+    Classes <api/classes>
