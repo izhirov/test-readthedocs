@@ -17,13 +17,14 @@ Contest of the `example` module is:
 
 .. toctree::
    :caption: Usage
-        Home <self>
-        installation
-        example
+
+    Home <self>
+    usage/installation
+    usage/example
 
 .. toctree::
-    :maxdepth: 2
     :caption: API
-        api/api
-        api/yandex
-        api/google
+
+    api/api
+    api/yandex
+    api/google
