@@ -21,7 +21,6 @@ Contest of the `example` module is:
         installation
         example
 
-
 .. toctree::
     :maxdepth: 2
     :caption: API

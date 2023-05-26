@@ -1,5 +1,5 @@
 API Reference
-==============
+=============
 .. automodule:: app.api
    :members:
    :undoc-members:

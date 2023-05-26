@@ -1,5 +1,5 @@
 Installation
-==============
+============
 
 To install the thing you need to run:
 
