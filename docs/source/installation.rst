@@ -7,6 +7,5 @@ To install the thing you need to run:
     Some note example
 
 .. code-block:: bash
-
     pip install -e .
 

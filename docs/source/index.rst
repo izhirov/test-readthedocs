@@ -4,7 +4,7 @@ Example of documentation
 Here is the example of documentation for the `example` module.
 Contest of the `example` module is:
 
-```.. code-block:: python
+.. code-block:: python
 
     def example_function():
         """This is example function.
@@ -13,11 +13,13 @@ Contest of the `example` module is:
             None
         """
         pass
-```
+
 
 Contest:
 
 .. toctree::
-    Home <self>
-    Installation
-    API
+   :maxdepth: 2
+   :caption: Contents:
+        Home <self>
+        installation
+        api
